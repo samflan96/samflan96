@@ -1,1 +1,3 @@
-Hi here 👋
+```python
+print("Hi there 👋")
+```
